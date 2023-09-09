@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/drawable/ic_dashboard.xml" value="0.148" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/drawable/ic_launcher_background.xml" value="0.148" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/drawable/ic_list.xml" value="0.148" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/drawable/ic_map.xml" value="0.148" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/fragment_add_new_site.xml" value="0.264" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/fragment_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/fragment_site.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/fragment_sites_recycler.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/layout/site_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertor - Descubre sitios historicos cerca de ti/Descubertorr/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/drawable/ic_dashboard.xml" value="0.155" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/fragment_add_new_site.xml" value="0.264" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/fragment_login.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/fragment_map.xml" value="0.25" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/fragment_site.xml" value="0.264" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/fragment_sites_recycler.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/layout/site_layout.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/Fames/Desktop/Descubertorr/app/src/main/res/menu/menu.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
